@@ -1,3 +1,4 @@
 # Project-Weather-App
 A weather forecast site
-made with html css javascript
+made with html css javascript and an api
+
